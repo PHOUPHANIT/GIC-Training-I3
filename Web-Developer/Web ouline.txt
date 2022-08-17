@@ -1,0 +1,76 @@
+				
+			Web-Development 
+
+	Week 1: HTML (2week)
+	Week 2: CSS (2week)
+	
+	The content for the summer couse training 
+	
+	About HTML
+	Week 1:
+		Day 1:
+			+Welcome juniors 
+			+Introduces my self and other trainer alitle bit
+			+Basic ot the website
+			+Basic of HTML
+				.Introduction about HTML
+				.Basic
+				.Heading 
+				.Paragraphs 
+				.style and attribute
+				.Q&A
+				.giving homework
+		Day 2:
+			+text format (<strong>, <i>, <mark>, <sub>, <sup> )
+			+HTML (Links, Images, Background,Color )
+			+HTML list
+			+HTML command 
+			+Q&A
+			+giving home work
+
+	Week 2:
+		Day 1:
+			+Block (div, span)
+			+HTML table
+			+Class and id
+			+Iframes
+			+Q&A
+			+giving homework
+		Day 2:
+			+HTML form
+			+Input (text, radio, checkbox, submit, button)
+			
+				
+	About CSS	
+	Week 3: 
+		Day 1:
+			+Introduction about CSS
+			+internal, External and inline CSS
+			+Selector (tag, group , univers )
+			+Style in CSS
+			+Command
+			+Color 
+			+Q&A
+			+giving homework
+			
+		Day 2:
+			+Background (Color, image, reapeat, attachment, position)
+			+CSS border
+			+Box Model
+			+Margin
+			+Padding
+			+Q&A
+			+giving homework
+	Week 4:
+		Day 1:
+			+Text (Color, Alignment, Decoration, Tranformation)
+			+Position ( Static, relative, fixed, absolute, sticky) 
+			+Overflow (visible, hidden, Scroll, auto )
+			+Q&A
+			+giving homework
+		Day 2:
+			+Float (left, right, non )
+			+outline ( width, Color, offset ) and Shorthand
+			+Variable 
+			+Q&A
+			+End training 

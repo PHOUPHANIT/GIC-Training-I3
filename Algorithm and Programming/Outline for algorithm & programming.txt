@@ -1,0 +1,34 @@
+Algorithm and Programming Outline
+
+-1st Week
+
+	+Introduction to C programming
+		->What are Algorithm and C programming?
+		->Explain about header
+		->Talk about editor and compiler
+	+Learn about data type
+		->integer, float, character, string,...
+		
+	+Learn input/output
+		->command printf, scanf,...
+		->using placeholder
+-2nd Week
+
+	+Learn about operator
+		->addition, subtraction, multiplication, division, modulo,...
+		->relational operator
+	+Learn decision making
+		->if, else if, else
+		->nested decision making
+
+-3rd Week
+	+Learn loop
+
+		->for, while, do...while
+                ->explain local and global variable
+		->nested loop
+-4th Week
+
+	+Learn about array
+	+Learn about sub-program(function), (if possible)
+	+Learn about MIT App Inventor, Thunkable, (optional)
